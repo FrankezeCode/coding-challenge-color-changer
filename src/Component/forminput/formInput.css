@@ -1,0 +1,10 @@
+.form{
+    min-height: 100vh;
+    margin-top: 10px;
+}
+
+input{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: 220px;
+}
